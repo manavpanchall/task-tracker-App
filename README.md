@@ -15,7 +15,8 @@ A lightweight task management application that allows users to track their perso
 1. Clone the repository
 2. Run `npm install`
 3. Run `npm start`
-4. Open [http://localhost:3000](http://localhost:3000)
+4. Open [http://localhost:3000](http://localhost:3000), https://task-tracker-app-plum-eight.vercel.app/
+
 
 ## 🧰 Technologies Used
 - React.js
